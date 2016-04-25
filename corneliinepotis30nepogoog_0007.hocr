@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliinepotis30nepogoog_0007.png"; bbox 0 0 2587 4402; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 341 1376 2169 1583">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 341 1376 2169 1583">
+     <span class='ocr_line' id='line_1_1' title="bbox 341 1376 2169 1583; baseline 0.002 -54"><span class='ocrx_word' id='word_1_1' title='bbox 341 1376 1086 1531; x_wconf 77' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_2' title='bbox 1147 1416 1880 1543; x_wconf 82' lang='lat' dir='ltr'>‚NEPOTIS·</span> <span class='ocrx_word' id='word_1_3' title='bbox 2082 1499 2169 1583; x_wconf 54' lang='lat' dir='ltr'>x</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 1758 1539 1849">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 1758 1539 1849">
+     <span class='ocr_line' id='line_1_2' title="bbox 731 1758 1539 1849; baseline -0.001 -34"><span class='ocrx_word' id='word_1_4' title='bbox 731 1758 1461 1849; x_wconf 66' lang='lat' dir='ltr'><strong>ExcELLEermM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1528 1832 1539 1842; x_wconf 27' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 583 2030 1599 2113">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 583 2030 1599 2113">
+     <span class='ocr_line' id='line_1_3' title="bbox 583 2030 1599 2113; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 583 2030 1599 2113; x_wconf 82' lang='lat' dir='ltr'><strong>IMPERATORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 452 2243 1341 2433">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 452 2243 1341 2433">
+     <span class='ocr_line' id='line_1_4' title="bbox 452 2243 1341 2433; baseline 0.006 -17"><span class='ocrx_word' id='word_1_7' title='bbox 452 2285 564 2416; x_wconf 72' lang='lat' dir='ltr'><em>f</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 816 2243 1341 2433; x_wconf 30' lang='lat' dir='ltr'>v1&#39;TAE.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
